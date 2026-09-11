@@ -1,11 +1,11 @@
 # Guess The Card — Android Edition 🎴
-A lightweight Android game demonstrating clean Kotlin architecture, ViewBinding, and simple game logic. Designed as a readable, beginner‑friendly sample for mobile development.
-
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-orange?style=for-the-badge&logo=kotlin)
 ![Platform](https://img.shields.io/badge/Platform-Android%20App-green?style=for-the-badge&logo=android)
 ![UI](https://img.shields.io/badge/UI-XML%20Layout-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+A lightweight Android game demonstrating clean Kotlin architecture, ViewBinding, and simple game logic. Designed as a readable, beginner‑friendly sample for mobile development.
 
 ---
 
