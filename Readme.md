@@ -3,6 +3,12 @@ A lightweight Android game demonstrating clean Kotlin architecture, ViewBinding,
 
 ---
 
+Overview
+
+This is the original Kotlin version of Guess the Card, built as an Android app using modern Android development practices.
+After completing this version, I later created a C# WinForms version and finally a pure‑logic C++ version to demonstrate 
+the same gameplay logic across multiple languages and platforms.
+
 ## 🎯 Purpose
 This project showcases:
 - Kotlin fundamentals  
@@ -47,11 +53,3 @@ Perfect for portfolio use, teaching examples, or internship submissions.
 4. Run on emulator or device  
 
 ---
-
-## 📸 Screenshots
-*(Add screenshots here)*
-
----
-
-## 📌 Notes
-This project was rewritten from scratch using modern Android practices. The goal was clarity, readability, and demonstrating clean Kotlin code for gameplay logic.
