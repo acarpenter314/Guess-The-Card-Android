@@ -9,6 +9,8 @@ This is the original Kotlin version of Guess the Card, built as an Android app u
 After completing this version, I later created a C# WinForms version and finally a pure‑logic C++ version to demonstrate 
 the same gameplay logic across multiple languages and platforms.
 
+---
+
 ## 🎯 Purpose
 This project showcases:
 - Kotlin fundamentals  
